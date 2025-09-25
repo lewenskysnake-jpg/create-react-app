@@ -1,4 +1,5 @@
----
+---npm install
+npm run development 
 id: deployment
 title: Deployment
 sidebar_label: Deployment
